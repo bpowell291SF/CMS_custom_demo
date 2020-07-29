@@ -237,19 +237,18 @@
   {
     "id": "amex",
     "img_src": [
-      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana1.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana10.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana11.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana12.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana13.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana2.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana3.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana4.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana5.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana6.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana7.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana8.jpg",
-      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana9.jpg"
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/79629_20-AMX-0052_ContactlessCOVID_SS_ICON1_146x782X.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/79629_20-AMX-0052_ContactlessCOVID_SS_ICON2b_146x782X.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/79629_20-AMX-0052_ContactlessCOVID_SS_ICON3_146x782X.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/79629_20-AMX-0052_ContactlessCOVID_SS_ShopGrp_256x862X.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/79697_1_2_3_20-AMX-0086_Contactless_PAIR1_310x298.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/79697_ALL_20-AMX-0086_Contactless_50P_186x186_2AX.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/AMXIMG_250x250_amex_logo.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/AMXIMG_DLLWI-tagline.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/app-img.gif",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/blue_cash_pref_ch_240x152.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/chg_green_merc_di_240x152.png",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/shop-small.png"
     ]
   },
   {
