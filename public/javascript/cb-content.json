@@ -235,6 +235,24 @@
     ]
   },
   {
+    "id": "amex",
+    "img_src": [
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana1.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana10.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana11.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana12.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/amex/makana13.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana2.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana3.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana4.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana5.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana6.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana7.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana8.jpg",
+      "https://cb-cms-integration.herokuapp.com/images/collections/makana/makana9.jpg"
+    ]
+  },
+  {
     "id": "richemont",
     "img_src": [
       "https://cb-cms-integration.herokuapp.com/images/collections/richemont/richemont1.jpg",
